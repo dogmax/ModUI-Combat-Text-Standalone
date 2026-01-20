@@ -2,3 +2,4 @@
 Changes the scrolling combat text so it looks like the one from Mod UI.
 
 Better than Blizzard default.
+<img width="506" height="316" alt="image" src="https://github.com/user-attachments/assets/79cbd857-d01a-47b9-a2a1-f864a47a2fb6" />
